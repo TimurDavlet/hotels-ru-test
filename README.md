@@ -34,4 +34,4 @@ x + 2y = 110
 
 ЗАДАЧИ ПО ПРОГРАММИРОВАНИЮ 
 
-Решение находится в папке  src: 
+Решение находится в папке  src: https://github.com/TimurDavlet/hotels-ru-test/tree/main/src
